@@ -9,7 +9,7 @@
 
 - 👨🏻‍💻 If you are new to iOS development, you can read this article. [100 Days of Swift Fundamentals](https://github.com/ibragimovscode1/100DaysOfSwift)
 
-- 💬 Ask me about **anything about UIkit.**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **socialkavinsky@gmail.com**
 
