@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Swift , UIKit, SwiftUI**
 
-- 👨🏻‍💻 If you are new to iOS development, you can read this article. [100 Days of Swift Fundamentals](https://github.com/ibragimovscode1/100DaysOfSwift)
+- 👨🏻‍💻 If you interested in iOS development, you can read this article. [100 Days of Swift Fundamentals](https://github.com/ibragimovscode1/100DaysOfSwift)
 
 - 💬 Ask me about ****
 
