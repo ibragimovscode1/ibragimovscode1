@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rahmetullah Ibragimov</h1>
+<h1 align="center">Hi, I'm Rahmatulloh Ibragimov</h1>
 <h3 align="center">I'm a CS Student and Jr. iOS Developer </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ibragimovscode1&label=Profile%20views&color=00a8e0&style=flat" alt="ibragimovscode1" /> </p>
