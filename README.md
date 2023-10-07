@@ -9,11 +9,11 @@
 
 - 👨🏻‍💻 If you interested in iOS development, you can read this article. [100 Days of Swift Fundamentals](https://github.com/ibragimovscode1/100DaysOfSwift)
 
-- 💬 Ask me about ****
+- 💬 Ask me about **inforahmatulloh@gmail.com**
 
-- 📫 How to reach me **socialkavinsky@gmail.com**
+- 📫 How to reach me **inforahmatulloh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<inforahmatulloh@gmail.com/h3>
 <p align="left">
 <a href="https://twitter.com/ibragimov_co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibragimov_co" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahmetullah-ibragimov-1ab554204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmetullah-ibragimov-1ab554204" height="30" width="40" /></a>
