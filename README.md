@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [UIC Group]
 
-- 🌱 I’m currently learning **Swift , UIKit, SwiftUI**
+- 🌱 I’m currently using **Swift , UIKit, SwiftUI**
 
 - 👨🏻‍💻 If you interested in iOS development, you can read this article. [100 Days of Swift Fundamentals](https://github.com/ibragimovscode1/100DaysOfSwift)
 
